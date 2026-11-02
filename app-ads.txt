@@ -2,6 +2,8 @@ google.com, pub-3081169685157345, DIRECT, f08c47fec0942fa0
 
 google.com, pub-1015163078609961, DIRECT, f08c47fec0942fa0
 
+google.com, pub-1999543752358452, DIRECT, f08c47fec0942fa0 
+
 facebook.com, 711033907009201, DIRECT, c3e20eee3f780d68
 
 vungle.com, 6a5a671398f4eedbd1f1d77a, DIRECT, c107d686becd2d77
